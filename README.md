@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,40:1a0040,80:2d006e,100:0d0d0d&height=240&section=header&text=Anderson%20Fontes&fontSize=68&fontColor=f0e6ff&fontAlignY=42&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Fatec%20Jacareí%20%E2%80%A2%20DSM&descAlignY=62&descColor=9d5cff&animation=fadeIn&stroke=6d28d9&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080810,30:1a004a,60:4a1a8a,80:1a004a,100:080810&height=260&section=header&text=Anderson%20Fontes&fontSize=64&fontColor=f0e6ff&fontAlignY=40&fontAlign=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Fatec%20Jacareí%20%E2%80%A2%20DSM&descAlignY=60&descColor=9d5cff&animation=fadeIn&stroke=7c3aed&strokeWidth=1" width="100%"/>
 
 </div>
 
@@ -8,37 +8,36 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1200&color=9D5CFF&center=true&vCenter=true&width=680&lines=→+const+anderson+%3D+new+Developer(%22Jacareí%2C+SP%22)%3B;→+anderson.build(%22soluções+que+importam%22)%3B;→+anderson.deploy().then(()%3D>+world.improve())%3B)](https://github.com/Anderson-Fontes)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2600&pause=1400&color=9D5CFF&center=true&vCenter=true&width=680&lines=→+const+anderson+%3D+new+Developer(%22Jacareí%2C+SP%22)%3B;→+anderson.build(%22soluções+que+importam%22)%3B;→+anderson.deploy().then(()%3D>+world.improve())%3B;→+%2F%2F+alwaysLearning%3A+true+%7C+openToWork%3A+true)](https://github.com/Anderson-Fontes)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6d28d9&color=0d0d0d)](https://www.linkedin.com/in/anderson-fontes)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=6d28d9&color=0d0d0d)](https://github.com/Anderson-Fontes)
-[![Email](https://img.shields.io/badge/Email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6d28d9&color=0d0d0d)](mailto:anderson.fontes@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23080810.svg?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/anderson-fontes)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%23080810.svg?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/Anderson-Fontes)&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-%23080810.svg?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:anderson.fontes@email.com)
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080810,50:2a0060,100:080810&height=2" width="100%"/>
 
 <br/>
 
 ```typescript
-╔═══════════════════════════════════════════════════════════════════╗
-║  ~/Anderson-Fontes  main  ✔  node --version v20.x  ● ONLINE      ║
-╚═══════════════════════════════════════════════════════════════════╝
+// ╔══════════════════════════════════════════════════════════════╗
+// ║  ~/Anderson-Fontes  main ✔  node v20.x  ● ONLINE            ║
+// ╚══════════════════════════════════════════════════════════════╝
 
-import { Developer }              from "@fatec-jacarei/dsm";
-import { Passion, Curiosity }     from "@core/values";
-import { CodeGators }             from "@org/teams";
+import { Developer }          from "@fatec-jacarei/dsm";
+import { CodeGators }         from "@org/teams";
 
 class AndersonFontes extends Developer {
 
   readonly name     = "Anderson Fontes Fernandes Júnior";
   readonly role     = "Full Stack Developer (em formação)";
   readonly location = "Jacareí, São Paulo — Brasil 🇧🇷";
-  readonly team     = new CodeGators();                    // 🐊
+  readonly team     = new CodeGators();                   // 🐊
 
   readonly stack = {
     languages  : ["TypeScript", "JavaScript", "Python", "C", "HTML", "CSS"],
@@ -47,11 +46,8 @@ class AndersonFontes extends Developer {
     tools      : ["Git", "GitHub", "VS Code", "Figma"],
   };
 
-  readonly status = {
-    currentFocus   : "Arquitetura de software & Design Patterns",
-    alwaysLearning : true,
-    openToWork     : true,
-  };
+  openToWork     = true;
+  alwaysLearning = true;
 
   greet = (): string =>
     "Olá! Vamos construir algo incrível juntos? 🚀";
@@ -62,7 +58,7 @@ export default new AndersonFontes();
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080810,50:2a0060,100:080810&height=2" width="100%"/>
 
 <br/>
 
@@ -72,18 +68,18 @@ export default new AndersonFontes();
 
 <div align="center">
 
-| Categoria | Tecnologias |
-|:---------:|:-----------:|
-| **Linguagens** | ![](https://skillicons.dev/icons?i=ts,js,python,c,html,css&theme=dark) |
-| **Frameworks & Runtime** | ![](https://skillicons.dev/icons?i=nodejs,react&theme=dark) |
-| **Banco de Dados** | ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark) |
-| **Ferramentas** | ![](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark) |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Categoria&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Tecnologias |
+|:---:|:---|
+| `Linguagens` | ![](https://skillicons.dev/icons?i=ts,js,python,c,html,css&theme=dark&perline=8) |
+| `Frameworks` | ![](https://skillicons.dev/icons?i=nodejs,react&theme=dark&perline=8) |
+| `Banco de Dados` | ![](https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=8) |
+| `Ferramentas` | ![](https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark&perline=8) |
 
 </div>
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080810,50:2a0060,100:080810&height=2" width="100%"/>
 
 <br/>
 
@@ -92,14 +88,14 @@ export default new AndersonFontes();
 <br/>
 
 ```bash
-~/Anderson-Fontes  main  ✔  ls -la projects/
+~/Anderson-Fontes  main ✔  ls projects/ --sort=stars
 
-  NAME                              LANG          STARS  STATUS
-  ──────────────────────────────────────────────────────────────
-  CodeGators/WildFireExplorer       TypeScript     ★★★    active
-  CodeGators/ODIN-Software          JavaScript     ★★★    active
-  Anderson-Fontes/Tradutor-PDF      Python         ★★     stable
-  fatec-dsm-portfolio/ra258...      Academic       ★★     ongoing
+  PROJECT                           LANG            STATUS
+  ────────────────────────────────────────────────────────
+  CodeGators/WildFireExplorer  →    TypeScript  ★★★  active
+  CodeGators/ODIN-Software     →    JavaScript  ★★★  active
+  Anderson-Fontes/Tradutor-PDF →    Python      ★★   stable
+  fatec-dsm-portfolio/ra258... →    Academic    ★★   ongoing
 ```
 
 <br/>
@@ -120,8 +116,8 @@ Org    → CodeGators
 Type   → Web App Full-Stack
 ```
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeGators/WildFireExplorer---Front-Server)
-![TS](https://img.shields.io/badge/TypeScript-96.8%25-0d0d0d?style=flat-square&logo=typescript&logoColor=9d5cff)
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-%23080810?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/CodeGators/WildFireExplorer---Front-Server)
+![TS](https://img.shields.io/badge/TypeScript-96.8%25-080810?style=flat-square&logo=typescript&logoColor=9d5cff)
 
 </td>
 <td width="50%" valign="top">
@@ -138,8 +134,8 @@ Org    → CodeGators
 Type   → Full-Stack Platform
 ```
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeGators/ODIN-Software)
-![JS](https://img.shields.io/badge/JavaScript-55.5%25-0d0d0d?style=flat-square&logo=javascript&logoColor=9d5cff)
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-%23080810?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/CodeGators/ODIN-Software)
+![JS](https://img.shields.io/badge/JavaScript-55.5%25-080810?style=flat-square&logo=javascript&logoColor=9d5cff)
 
 </td>
 </tr>
@@ -158,8 +154,8 @@ Type   → Automation / CLI Tool
 Mode   → Offline · Local · Free
 ```
 
-[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anderson-Fontes/Tradutor-de-PDF)
-![PY](https://img.shields.io/badge/Python-100%25-0d0d0d?style=flat-square&logo=python&logoColor=9d5cff)
+[![Ver Projeto](https://img.shields.io/badge/Ver_Projeto-%23080810?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/Anderson-Fontes/Tradutor-de-PDF)
+![PY](https://img.shields.io/badge/Python-100%25-080810?style=flat-square&logo=python&logoColor=9d5cff)
 
 </td>
 <td width="50%" valign="top">
@@ -176,7 +172,7 @@ Course → DSM · em andamento
 Team   → CodeGators 🐊
 ```
 
-[![Ver Portfólio](https://img.shields.io/badge/Ver_Portfólio-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423014)
+[![Ver Portfólio](https://img.shields.io/badge/Ver_Portfólio-%23080810?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423014)
 
 </td>
 </tr>
@@ -184,7 +180,7 @@ Team   → CodeGators 🐊
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080810,50:2a0060,100:080810&height=2" width="100%"/>
 
 <br/>
 
@@ -194,15 +190,15 @@ Team   → CodeGators 🐊
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anderson-Fontes&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9d5cff&icon_color=9d5cff&text_color=c9b8ff&bg_color=0d0d0d"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Anderson-Fontes&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9d5cff&icon_color=9d5cff&text_color=c9b8ff&bg_color=080810"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Fontes&layout=compact&langs_count=6&hide_border=true&title_color=9d5cff&text_color=c9b8ff&bg_color=0d0d0d"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Fontes&layout=compact&langs_count=6&hide_border=true&title_color=9d5cff&text_color=c9b8ff&bg_color=080810"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anderson-Fontes&hide_border=true&background=0d0d0d&ring=6d28d9&fire=9d5cff&currStreakLabel=9d5cff&sideLabels=c9b8ff&dates=666666&currStreakNum=f0e6ff&sideNums=f0e6ff&stroke=0d0d0d"/>
+<img src="https://streak-stats.demolab.com?user=Anderson-Fontes&hide_border=true&background=080810&ring=6d28d9&fire=9d5cff&currStreakLabel=9d5cff&sideLabels=c9b8ff&dates=44337a&currStreakNum=f0e6ff&sideNums=f0e6ff&stroke=080810"/>
 
 </div>
 
@@ -214,7 +210,7 @@ Team   → CodeGators 🐊
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080810,50:2a0060,100:080810&height=2" width="100%"/>
 
 <br/>
 
@@ -223,15 +219,11 @@ Team   → CodeGators 🐊
 ```typescript
 // life.ts — em produção desde 2004
 
-export const anderson = {
-  routine: async () => {
-    while (await isAlive()) {
-      await eat();
-      await sleep();
-      await code();   // ← a parte favorita ✦
-    }
-  },
-};
+while (await isAlive()) {
+  await eat();
+  await sleep();
+  await code();   // ← a parte favorita ✦
+}
 ```
 
 <br/>
@@ -244,6 +236,6 @@ export const anderson = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0d0d0d,40:1a0040,80:2d006e,100:0d0d0d&height=140&section=footer&stroke=6d28d9&strokeWidth=1&reversal=true" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080810,30:1a004a,60:4a1a8a,80:1a004a,100:080810&height=160&section=footer&stroke=7c3aed&strokeWidth=1&reversal=true" width="100%"/>
 
 </div>
