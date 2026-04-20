@@ -16,9 +16,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/anderson-fontes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230d0d0d.svg?style=for-the-badge&logo=linkedin&logoColor=c084fc)](https://www.linkedin.com/in/anderson-ffjr)
 [![GitHub](https://img.shields.io/badge/GitHub-%230d0d0d.svg?style=for-the-badge&logo=github&logoColor=c084fc)](https://github.com/Anderson-Fontes)
-[![Email](https://img.shields.io/badge/Email-%230d0d0d.svg?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:anderson.fontes@email.com)
+[![Email](https://img.shields.io/badge/Email-%230d0d0d.svg?style=for-the-badge&logo=gmail&logoColor=c084fc)](mailto:andersonfontes795@email.com)
 
 </div>
 
