@@ -69,66 +69,30 @@ export default new AndersonFontes();
 <div align="center">
 
 <table>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=ts" width="45"/><br/>
-<sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=js" width="45"/><br/>
-<sub><b>JavaScript</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="45"/><br/>
-<sub><b>Python</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="45"/><br/>
-<sub><b>React</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="45"/><br/>
-<sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgres" width="45"/><br/>
-<sub><b>PostgreSQL</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>
-<sub><b>MySQL</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>
-<sub><b>MongoDB</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=c" width="45"/><br/>
-<sub><b>C / Arduino</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="45"/><br/>
-<sub><b>HTML5</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="45"/><br/>
-<sub><b>CSS3</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="45"/><br/>
-<sub><b>Git</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="45"/><br/>
-<sub><b>VS Code</b></sub>
-</td>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=figma" width="45"/><br/>
-<sub><b>Figma</b></sub>
-</td>
-</tr>
+  <tr>
+    <td align="center"><b>Linguagens</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=ts,js,python,c,html,css&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Frameworks</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs,react&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Banco de Dados</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=6" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>Ferramentas</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&perline=6" />
+    </td>
+  </tr>
 </table>
 
 </div>
@@ -262,6 +226,19 @@ Team        : CodeGators 🐊
 <br/>
 
 <div align="center">
+
+```typescript
+// filosofia de vida.ts
+
+while (alive) {
+  eat();
+  sleep();
+  code();   // ← a parte favorita
+  repeat();
+}
+```
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Anderson-Fontes&label=profile+views&color=7c3aed&style=flat-square&abbreviated=true"/>
 
