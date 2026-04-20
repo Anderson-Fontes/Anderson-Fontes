@@ -42,9 +42,9 @@ class AndersonFontes extends Developer {
   readonly base    = "Jacareí, São Paulo — Brasil 🇧🇷";
 
   skills = {
-    languages  : ["TypeScript", "JavaScript", "Python", "HTML", "CSS"],
+    languages  : ["TypeScript", "JavaScript", "Python", "C", "HTML", "CSS"],
     frameworks : ["Node.js", "React"],
-    databases  : ["PostgreSQL", "MySQL"],
+    databases  : ["PostgreSQL", "MySQL", "MongoDB"],
     tools      : ["Git", "GitHub", "VS Code", "Figma"],
   };
 
@@ -99,6 +99,14 @@ export default new AndersonFontes();
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br/>
 <sub><b>MySQL</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45"/><br/>
+<sub><b>MongoDB</b></sub>
+</td>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=c" width="45"/><br/>
+<sub><b>C / Arduino</b></sub>
 </td>
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=html" width="45"/><br/>
@@ -254,17 +262,6 @@ Team        : CodeGators 🐊
 <br/>
 
 <div align="center">
-
-```typescript
-while (alive) {
-  eat();
-  sleep();
-  code();     // ← a parte favorita
-  repeat();
-}
-```
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Anderson-Fontes&label=profile+views&color=7c3aed&style=flat-square&abbreviated=true"/>
 
