@@ -217,7 +217,7 @@ Team   → CodeGators 🐊
 <div align="center">
 
 ```typescript
-// life.ts — em produção desde 2004
+// life.ts — em produção desde 2005
 
 while (await isAlive()) {
   await eat();
