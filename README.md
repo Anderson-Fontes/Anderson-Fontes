@@ -136,7 +136,7 @@ Arquitetura modular separada em **client**, **server** e **banco de dados**. Foc
 
 ```bash
 Stack  → JavaScript · Python · SQL
-Org    → CodeGators
+Org    → CodeGators / INPE
 Type   → Full-Stack Platform
 ```
 
