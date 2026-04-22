@@ -175,7 +175,6 @@ Portfólio oficial da **Fatec Jacareí** documentando projetos, aprendizados e m
 ```bash
 School → Fatec Jacareí – SP
 Course → DSM · em andamento
-Team   → CodeGators 🐊
 ```
 
 [![Ver Portfólio](https://img.shields.io/badge/Ver_Portfólio-080810?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/fatec-jacarei-dsm-portfolio/ra2581392423014)
@@ -210,8 +209,6 @@ Team   → CodeGators 🐊
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Anderson-Fontes&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=6)](https://github.com/Anderson-Fontes)
-
 </div>
 
 <br/>
@@ -228,7 +225,7 @@ Team   → CodeGators 🐊
 while (await isAlive()) {
   await eat();
   await sleep();
-  await code();   // ← a parte favorita ✦
+              await code();   // ← a parte favorita ✦
 }
 ```
 
