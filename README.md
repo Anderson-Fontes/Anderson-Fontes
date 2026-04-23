@@ -327,22 +327,6 @@ Expo / RN    ████████████░░░░░░░░░░�
 
 <br/>
 
-<!---------------------------------------------------------------------------->
-<!--  CURRENTLY                                                              -->
-<!---------------------------------------------------------------------------->
-
-## 🎯 Agora mesmo...
-
-<div align="center">
-
-| 🔭 Trabalhando em | 🌱 Aprendendo | 🤝 Aberto para | ⚡ Fun fact |
-|:-:|:-:|:-:|:-:|
-| WildFire Explorer & ODIN | GIS avançado · REST APIs | Freelas & colaborações | `while(true) { code(); }` |
-
-</div>
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05030f,40:2d0060,60:2d0060,100:05030f&height=1" width="100%"/>
 
 <br/>
