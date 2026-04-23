@@ -3,7 +3,124 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05030f,20:0d0820,50:2d0060,80:6d00cc,100:a855f7&height=340&section=header&text=Anderson+Fontes&fontSize=74&fontColor=ffffff&fontAlignY=43&fontAlign=50&desc=Full+Stack+Developer+·+Fatec+Jacareí+·+DSM&descAlignY=63&descColor=c084fc&animation=fadeIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
 
 </div>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05030f,25:1a0b3a,50:4c1d95,75:7c3aed,100:a855f7&height=360&section=header&text=Anderson%20Fontes&fontSize=78&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20Geo%20Systems%20%7C%20React%20%2B%20Node&descAlignY=62&descColor=c084fc" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=1800&pause=800&color=A855F7&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Booting+Developer+Profile...;%E2%9C%A6+Loading+Skills+%5BTypeScript+%7C+React+%7C+Node%5D;%E2%9C%A6+Geo+Systems+Ready+%5BLeaflet+%2B+PostGIS%5D;%E2%9C%A6+Mobile+Ready+%5BExpo+%2B+React+Native%5D;%E2%9C%A6+Status%3A+OPEN+TO+WORK+%E2%9C%94" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a855f7)](https://www.linkedin.com/in/anderson-fontes)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=a855f7)](https://github.com/Anderson-Fontes)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=a855f7)](mailto:anderson.fontes@email.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anderson-Fontes&label=profile%20views&color=7c3aed&style=flat-square)
+![Status](https://img.shields.io/badge/status-open%20to%20work-a855f7?style=flat-square)
+![Learning](https://img.shields.io/badge/always-learning-7c3aed?style=flat-square)
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05030f,100:a855f7&height=2"/>
+
+---
+
+# 🧠 Sobre Mim
+
+```ts
+class Developer {
+  name = "Anderson Fontes";
+  role = "Full Stack Developer";
+  location = "São Paulo, Brasil";
+
+  focus() {
+    return [
+      "Aplicações web modernas",
+      "Sistemas geoespaciais",
+      "Mobile cross-platform",
+      "Automação com Python"
+    ];
+  }
+
+  philosophy() {
+    return "Código bom resolve problemas. Código excelente evita eles.";
+  }
+}
+
+export default new Developer();
+⚙️ Tech Stack
+<div align="center"> <img src="https://skillicons.dev/icons?i=ts,js,python,c,react,nodejs,expo,bootstrap,postgres,mysql,mongodb,git,github,vscode,figma&theme=dark" /> </div>
+🌍 Diferencial
++ Visualização Geoespacial
++ Integração API + Banco + Mapa
++ Full Stack moderno (React + Node)
++ Projetos com dados reais
+🚀 Projetos
+🔥 WildFire Explorer
+Tipo: Plataforma geoespacial
+Stack: TypeScript + React + Node
+Geo: Leaflet + PostGIS + INPE
+Status: Ativo
+
+👉 https://github.com/CodeGators/WildFireExplorer---Front-Server
+
+⚡ ODIN Software
+Tipo: Sistema Full Stack
+Stack: JavaScript + Python + SQL
+Arquitetura: Modular
+Equipe: CodeGators
+
+👉 https://github.com/CodeGators/ODIN-Software
+
+📄 PDF Translator
+Tipo: Automação CLI
+Stack: Python
+Modo: Offline
+
+👉 https://github.com/Anderson-Fontes/Tradutor-de-PDF
+
+📊 Estatísticas
+<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=Anderson-Fontes&show_icons=true&theme=radical&hide_border=true"/> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anderson-Fontes&layout=compact&theme=radical&hide_border=true"/> <br/> <img src="https://streak-stats.demolab.com?user=Anderson-Fontes&theme=radical&hide_border=true"/> </div>
+📈 Evolução
+TypeScript   ████████████████████░░░   82%
+JavaScript   ███████████████████░░░░   80%
+React        █████████████████░░░░░░   66%
+Python       ████████████████░░░░░░░   62%
+Node.js      ████████████████░░░░░░░   62%
+PostgreSQL   █████████████░░░░░░░░░░   54%
+GIS          ████████████░░░░░░░░░░░   50%
+🧬 Mentalidade
+while (alive) {
+  learn();
+  build();
+  improve();
+}
+🐍 Contributions
+<div align="center"> <img src="https://raw.githubusercontent.com/Anderson-Fontes/Anderson-Fontes/output/github-contribution-grid-snake-dark.svg"/> </div>
+💼 Status
+{
+  "openToWork": true,
+  "level": "Estágio / Júnior",
+  "focus": "Full Stack + Geo",
+  "availability": "Immediate"
+}
+🤝 Contato
+<div align="center"> <a href="https://www.linkedin.com/in/anderson-fontes"> <img src="https://img.shields.io/badge/Vamos%20conversar-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=a855f7"/> </a> </div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05030f,100:a855f7&height=200&section=footer"/> </div> ```
 <!---------------------------------------------------------------------------->
 <!--  TYPING BANNER                                                          -->
 <!---------------------------------------------------------------------------->
