@@ -26,7 +26,7 @@
 <a href="https://github.com/Anderson-Fontes">
   <img src="https://img.shields.io/badge/GitHub-05030f?style=for-the-badge&logo=github&logoColor=a855f7&labelColor=05030f"/>
 </a>&nbsp;
-<a href="mailto:anderson.fontes@email.com">
+<a href="mailto:andersonfontes795@email.com">
   <img src="https://img.shields.io/badge/Email-05030f?style=for-the-badge&logo=gmail&logoColor=a855f7&labelColor=05030f"/>
 </a>
 
